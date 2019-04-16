@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "167377634635",
+    "firebase_url": "https://authandmessaging-dafff.firebaseio.com",
+    "project_id": "authandmessaging-dafff",
+    "storage_bucket": "authandmessaging-dafff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167377634635:android:f4cf6b3bdadb56b6",
+        "android_client_info": {
+          "package_name": "com.dycode.edu.authandmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167377634635-bjugubi4leeubfocdcf90pcug2gcn2u0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dycode.edu.authandmessaging",
+            "certificate_hash": "0c0b0ea406a19b148ac137e6a8521f0120f7169c"
+          }
+        },
+        {
+          "client_id": "167377634635-6k59gps5ppat1o4t90nknn3dds8gd0n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8NEdzuQbfjvN5KIeAIZAFcnvqnBs7h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167377634635-6k59gps5ppat1o4t90nknn3dds8gd0n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
